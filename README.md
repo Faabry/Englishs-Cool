@@ -1,4 +1,9 @@
-<h1>English's Cool</h1>
+<img src="https://github.com/Faabry/Englishs-Cool/assets/110841289/6a4b42be-f1eb-4132-8265-498e34fc7f40" width=350px>
+<img src="https://github.com/Faabry/Englishs-Cool/assets/110841289/ef4ad548-1b26-477c-aba6-871a93fd13a1" widht=70px height=70px>
+
+
+
+
 <p>Unlock a world of interactive learning and linguistic exploration with English's Cool Plataform, an initiative that began as a personal endeavor, rooted in my passion for teaching. Founded a few years ago, our English school has been a hub of education and growth. Now, as I transition into the dynamic realm of technology, I am excited to elevate the language learning experience.</p>
 <h3>Overview</h3>
 <p>In response to the ever-evolving landscape of education and technology, English's Cool Plataform is undergoing a transformative journey. The vision is to transcend traditional language education by introducing a comprehensive platform that not only empowers students with language proficiency but also immerses them in a diverse range of applications designed to make learning engaging, dynamic, and delightful.</p>
