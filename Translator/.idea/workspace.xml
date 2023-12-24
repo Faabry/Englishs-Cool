@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f468399-a5b2-4960-a765-590dfecc0981" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Menu/code/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/code/Choose_img.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/code/Const.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/code/Display_Img.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/code/Img_Resizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/code/Layout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/code/Speak_Text.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/code/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/code/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/bacon.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/bacon.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/bread.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/bread.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/calculator.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/calculator.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/car.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/car.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/cellphone.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/cellphone.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/chair.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/chair.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/cheese.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/cheese.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/chocolate.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/chocolate.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/coffee.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/coffee.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/dental floss.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/dental floss.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/dog.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/dog.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/drums.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/drums.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/egg.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/egg.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/elephant.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/elephant.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/fish.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/fish.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/french fries.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/french fries.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/gas station.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/gas station.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/ham.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/ham.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/house.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/house.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/ice cream.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/ice cream.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/juice.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/juice.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/library.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/library.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/mango.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/mango.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/meat.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/meat.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/melon.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/melon.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/milk.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/milk.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/motorcycle.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/motorcycle.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/movies.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/movies.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/park.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/park.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/party.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/party.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/pen.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/pen.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/piano.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/piano.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/pig.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/pig.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/pizza.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/pizza.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/restaurant.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/restaurant.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/school.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/school.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/snake.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/snake.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/sushi.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/sushi.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/to eat.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/to eat.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/to go.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/to go.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/to have.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/to have.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/to speak.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/to speak.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/to study.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/to study.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/to want.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/to want.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/to work.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/to work.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/turtle.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/turtle.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/vegetables.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/vegetables.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/video game.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/video game.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/violin.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/violin.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/water.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/water.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/wine.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/wine.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Pics/images/work.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_Pics/images/work.jpeg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ZwjIoVC2iFbCPyQYPVsYOSzWyN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/airto/OneDrive/Documentos/English/exe/Translator&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\airto\OneDrive\Documentos\English\exe\Translator\Trasnlatorr" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f468399-a5b2-4960-a765-590dfecc0981" name="Changes" comment="" />
+      <created>1703339959277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703339959277</updated>
+      <workItem from="1703339960409" duration="371000" />
+      <workItem from="1703342794335" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
