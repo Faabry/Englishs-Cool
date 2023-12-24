@@ -1,30 +1,27 @@
-<h4>Description:</h4>
-<p>Dive into the "Learn Pics" game, a fun and engaging way to enhance vocabulary. This game challenges students to create sentences using randomly generated words based on chosen categories. By leveraging creativity and language skills, students improve their vocabulary organically.</p>
-<h4>Categories:</h4>
+<h1>Speecher</h1>
+<br>
+<h3>Description:</h3>
+<p>The Speecher application focuses on honing students' pronunciation skills through interactive exercises. Students receive sentences to repeat, and the application evaluates their pronunciation, providing valuable feedback to enhance spoken English.</p>
+<h3>Features:</h3>
 <ul>
-  <li>Foods</li>
-  <li>Places</li>
-  <li>Animals</li>
-  <li>Fruits</li>
-  <li>Drinks</li>
-  <li>Objects</li>
-  <li>Verbs</li>
-  <li>Random</li>
-</ul>
-<h4>How it works:</h4>
-<ul>
-  <li>Choose a category.</li>
-  <li>Receive a randomly generated word from that category.</li>
-  <li>Form a sentence using the given word and a randomly generated verb.</li>
-  <li>Enhance vocabulary and creativity as you create meaningful sentences.</li>
+  <li>Receive sentences to repeat aloud for pronunciation practice.</li>
+  <li>Automatic evaluation of pronunciation accuracy.</li>
+  <li>Immediate feedback with correct pronunciation and comparison to the student's pronunciation.</li>
 </ul>
 <br>
-<h4>Pronunciation Assistance</h4>
+<h3>How it works:</h3>
 <ul>
-  <li>Learn Pics goes beyond written language, it offers pronunciation support.</li>
-  <li>Utilize the option to hear the correct pronunciation of the generated word.</li>
-  <li>Hone your oral skills by replicating the pronunciation.</li>
+  <li>Click "Start" to begin the pronunciation exercise.</li>
+  <li>Listen to the provided sentence.</li>
+  <li>Repeat the sentence aloud.</li>
+  <li>Receive instant feedback on the accuracy of your pronunciation.</li>
+  <li>View correct pronunciation for comparison and improvement.</li>
+</ul>
+<br>
+<h3>Feedback and Improvement:</h3>
+<ul>
+  <li>Utilize the provided feedback to identify areas for improvement.</li>
+  <li>Repeat exercises to enhance spoken English and pronunciation skills.</li>
 </ul>
 
-<img src="https://github.com/Faabry/Englishs-Cool/assets/110841289/96a9c825-f878-4e38-b7de-63dbe697addf" widht=450px height=450px>
-<img src="https://github.com/Faabry/Englishs-Cool/assets/110841289/7fbc0ed0-9a2f-423b-96e8-c20d0c1d8a58" widht=450px height=450px>
+<!-- Add images or gifs to showcase the Speecher application -->
