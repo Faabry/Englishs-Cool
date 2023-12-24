@@ -20,7 +20,7 @@
     <p>Embarking on this ambitious journey involves the development of multiple projects, each contributing uniquely to the overarching goal. Among these, the flagship project is the English School Platform, a digital ecosystem designed to redefine how language is learned and mastered.</p>
     
   <ul>
-    <li><h4><a href="https://github.com/Faabry/Englishs-Cool/tree/master/Learn_Pics">Learn Pics - Vocabulary Game</a></h4></li>
+    <li><h4><a href="https://github.com/Faabry/Englishs-Cool/tree/master/Menu/Learn_Pics">Learn Pics - Vocabulary Game</a></h4></li>
     <li><h4><a href="https://github.com/Faabry/Englishs-Cool/tree/master/Menu/Speecher">Speecher - Increase Your Pronunciation</a></h4></li>
     <li><h4><a href="https://github.com/Faabry/Englishs-Cool/tree/master/Menu/Translator">Translator - Your Best Friend</a></h4></li>
   </ul>
