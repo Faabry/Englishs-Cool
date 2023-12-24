@@ -24,7 +24,7 @@
     <li><h4><a href="https://github.com/Faabry/Englishs-Cool/tree/master/Menu/Speecher">Speecher - Increase Your Pronunciation</a></h4></li>
     <li><h4><a href="https://github.com/Faabry/Englishs-Cool/tree/master/Menu/Translator">Translator - Your Best Friend</a></h4></li>
   </ul>
-  <h1>About me: </h1>
+  <h3>About me: </h3>
   <a href="https://www.linkedin.com/in/airton-f-225784255/">
   <img src="https://user-images.githubusercontent.com/110841289/224358942-846f52a8-6945-49ca-8aa7-6719b2f1c603.png" height=50px width=50px>
   </a>
