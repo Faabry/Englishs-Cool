@@ -11,14 +11,16 @@
   
   <hr>
   
-  <p>Unlock a world of interactive learning and linguistic exploration with English's Cool Plataform, an initiative that began as a personal endeavor, rooted in my passion for teaching. Founded a few years ago, our English school has been a hub of education and growth. Now, as I transition into the dynamic realm of technology, I am excited to elevate the language learning experience.</p>
+  <p><font size=3>Unlock a world of interactive learning and linguistic exploration with English's Cool Plataform, an initiative that began as a personal endeavor, rooted in my passion for teaching. Founded a few years ago, our English school has been a hub of education and growth. Now, as I transition into the dynamic realm of technology, I am excited to elevate the language learning experience.</font></p>
   
   <h3>Overview</h3>
   <p>In response to the ever-evolving landscape of education and technology, English's Cool Plataform is undergoing a transformative journey. The vision is to transcend traditional language education by introducing a comprehensive platform that not only empowers students with language proficiency but also immerses them in a diverse range of applications designed to make learning engaging, dynamic, and delightful.</p>
   
   <h3>Project in Scope:</h3>
     <p>Embarking on this ambitious journey involves the development of multiple projects, each contributing uniquely to the overarching goal. Among these, the flagship project is the English School Platform, a digital ecosystem designed to redefine how language is learned and mastered.</p>
-    
+    <p>As you launch the platform, your first encounter will be with a welcoming and intuitive menu that greets you based on the current time. This thoughtfully designed menu serves as a gateway to a variety of engaging language learning projects within this comprehensive scope. Here, you'll find three distinct options, each promising a unique and enriching learning experience. Further details for each option are provided below:</p>
+    <img src="https://github.com/Faabry/Englishs-Cool/assets/110841289/bbe25c26-621d-4b89-b0b5-26a5e4912c5d" height=450px widht=400px>
+    <br>
   <ul>
     <li><h4><a href="https://github.com/Faabry/Englishs-Cool/tree/master/Menu/Learn_Pics">Learn Pics - Vocabulary Game</a></h4></li>
     <li><h4><a href="https://github.com/Faabry/Englishs-Cool/tree/master/Menu/Speecher">Speecher - Increase Your Pronunciation</a></h4></li>
