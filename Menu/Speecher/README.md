@@ -24,4 +24,10 @@
   <li>Repeat exercises to enhance spoken English and pronunciation skills.</li>
 </ul>
 
-<!-- Add images or gifs to showcase the Speecher application -->
+<img src="https://github.com/Faabry/Englishs-Cool/assets/110841289/e6fe984e-6477-450a-890c-df4d3ca3c280" height=450px width=350px>
+<img src="https://github.com/Faabry/Englishs-Cool/assets/110841289/9b1f5f93-c339-47f2-bae4-669d2849d0ac" height=450px width=350px>
+<br><br>
+<img src="https://github.com/Faabry/Englishs-Cool/assets/110841289/531c024b-894b-4f32-9f4d-ce8912ca85de"
+ height=450px width=350px>
+
+
