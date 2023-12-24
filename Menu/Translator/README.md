@@ -1,30 +1,26 @@
-<h4>Description:</h4>
-<p>Dive into the "Learn Pics" game, a fun and engaging way to enhance vocabulary. This game challenges students to create sentences using randomly generated words based on chosen categories. By leveraging creativity and language skills, students improve their vocabulary organically.</p>
-<h4>Categories:</h4>
+<h1>Translator</h1>
+<br>
+<h3>Description:</h3>
+<p>The Translator tool is designed to assist students in exploring the meanings of words or texts. It provides quick translations between English and Portuguese, aiding learners in their language comprehension and communication skills.</p>
+<h3>Features:</h3>
 <ul>
-  <li>Foods</li>
-  <li>Places</li>
-  <li>Animals</li>
-  <li>Fruits</li>
-  <li>Drinks</li>
-  <li>Objects</li>
-  <li>Verbs</li>
-  <li>Random</li>
-</ul>
-<h4>How it works:</h4>
-<ul>
-  <li>Choose a category.</li>
-  <li>Receive a randomly generated word from that category.</li>
-  <li>Form a sentence using the given word and a randomly generated verb.</li>
-  <li>Enhance vocabulary and creativity as you create meaningful sentences.</li>
+  <li>Translate words or texts from English to Portuguese and vice versa.</li>
+  <li>Listen to the pronunciation of the translated words or texts.</li>
+  <li>Access to multiple meanings of words for a more comprehensive understanding.</li>
 </ul>
 <br>
-<h4>Pronunciation Assistance</h4>
+<h3>How it works:</h3>
 <ul>
-  <li>Learn Pics goes beyond written language, it offers pronunciation support.</li>
-  <li>Utilize the option to hear the correct pronunciation of the generated word.</li>
-  <li>Hone your oral skills by replicating the pronunciation.</li>
+  <li>Enter a word or text in the input field.</li>
+  <li>Choose the source language (English) and target language (Portuguese).</li>
+  <li>Click "Translate" to receive the translation.</li>
+  <li>Listen to the correct pronunciation for better language learning.</li>
+</ul>
+<br>
+<h3>Enhance Pronunciation:</h3>
+<ul>
+  <li>Utilize the listening feature to improve pronunciation.</li>
+  <li>Practice repeating the translated words or texts for effective language learning.</li>
 </ul>
 
-<img src="https://github.com/Faabry/Englishs-Cool/assets/110841289/96a9c825-f878-4e38-b7de-63dbe697addf" widht=450px height=450px>
-<img src="https://github.com/Faabry/Englishs-Cool/assets/110841289/7fbc0ed0-9a2f-423b-96e8-c20d0c1d8a58" widht=450px height=450px>
+<!-- Add images or gifs to showcase the Translator tool -->
