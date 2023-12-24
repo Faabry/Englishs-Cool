@@ -31,7 +31,6 @@
     <li>Utilize the listening feature to improve pronunciation.</li>
     <li>Practice repeating the translated words or texts for effective language learning.</li>
   </ul>
-  <img src="https://github.com/Faabry/Englishs-Cool/assets/110841289/a750bd94-fa89-4f9c-bbae-21b7daa58f90" height=450px width=300px>
   <img src="https://github.com/Faabry/Englishs-Cool/assets/110841289/22ceb883-ad9e-4da6-8b03-30225c8dc859" height=450px width=300px>
   <img src="https://github.com/Faabry/Englishs-Cool/assets/110841289/4e3a6380-967b-4187-93bc-3590939dae1a" height=450px width=300px>
   <img src="https://github.com/Faabry/Englishs-Cool/assets/110841289/ae871d00-63d8-4737-a78e-9469cd355bca" height=450px width=450px>
