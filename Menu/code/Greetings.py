@@ -2,11 +2,15 @@ from datetime import datetime as dt
 
 
 class Greeting:
-
-    def greetings(self):
+    def __init__(self):
+        # Class atributes
         self.date = dt.now()
         self.hour = self.date.hour
+        self.minute = self.date.minute
 
+
+    def greetings(self):
+        # Greetings conditional
         if self.hour < 12:
             return "Bom Dia ☀️"
         
@@ -16,7 +20,8 @@ class Greeting:
         else:
             return "Boa Noite 🌙"
         
-
+    
+    # Getting the hour with minutes
     def get_hour(self):
         self.date = dt.now()
         self.hour = self.date.hour
@@ -31,6 +36,7 @@ class Greeting:
         return f"{self.hour}:{self.minute}"
 
 
+    # Gettomg the day and month
     def get_day(self):
         self.date = dt.today()
         self.day = self.date.day
