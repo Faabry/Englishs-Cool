@@ -1,6 +1,8 @@
-<h4>Description:</h4>
+<h1>Learn Pics!</h1>
+<br>
+<h3>Description:</h3>
 <p>Dive into the "Learn Pics" game, a fun and engaging way to enhance vocabulary. This game challenges students to create sentences using randomly generated words based on chosen categories. By leveraging creativity and language skills, students improve their vocabulary organically.</p>
-<h4>Categories:</h4>
+<h3>Categories:</h3>
 <ul>
   <li>Foods</li>
   <li>Places</li>
@@ -11,7 +13,7 @@
   <li>Verbs</li>
   <li>Random</li>
 </ul>
-<h4>How it works:</h4>
+<h3>How it works:</h3>
 <ul>
   <li>Choose a category.</li>
   <li>Receive a randomly generated word from that category.</li>
@@ -19,7 +21,7 @@
   <li>Enhance vocabulary and creativity as you create meaningful sentences.</li>
 </ul>
 <br>
-<h4>Pronunciation Assistance</h4>
+<h3>Pronunciation Assistance</h3>
 <ul>
   <li>Learn Pics goes beyond written language, it offers pronunciation support.</li>
   <li>Utilize the option to hear the correct pronunciation of the generated word.</li>
