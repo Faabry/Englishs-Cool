@@ -2,12 +2,14 @@ import PySimpleGUI as sg
 from Translator.code.translated import translated
 from Translator.code.translate_text import Translate_text as tt
 from Translator.code.speak_text import Speak_text as st
+from code.Greetings import Greeting
+from code.Right_Layout import Right
 
 
 class Translator:
     def __init__(self):
         # Theme
-        sg.theme("lightblue")
+        sg.theme(Greeting().get_theme())
 
         # Layout of application
         self.layout = [
@@ -15,21 +17,21 @@ class Translator:
             [sg.Text("Trans", font=("Arial Black", 40), text_color=("black")),
             sg.Text("lator", font=("Arial Black", 40), text_color=("red")),
             sg.Push(),
-            sg.Image(r"images/logo1.png")],
+            sg.Image(Right().get_logo())],
 
             [sg.Text()],
 
             [sg.Text("Word | Text:",
-                    font=("Bookman Old Style", 25))],
+                    font=("Bookman Old Style", 23))],
 
             [sg.Multiline(key="input_text",
-                        size=(40, 8),
+                        size=(40, 7),
                         font=("Bookman Old Style", 15))],
 
             [sg.Text()],
 
             [sg.Text("Type of Translation:",
-                    font=("Bookman Old Style", 25))],
+                    font=("Bookman Old Style", 23))],
 
             [sg.Push(),
             sg.Radio("Portuguese » English",
@@ -74,7 +76,7 @@ class Translator:
         # Creating the window with the layout I've defined
         self.window = sg.Window("Translator",
                         self.layout,
-                        location=(350, 10))
+                        location=(350, 0))
 
     def run(self):
         # Checking events

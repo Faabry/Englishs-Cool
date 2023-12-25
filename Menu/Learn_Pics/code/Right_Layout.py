@@ -1,5 +1,6 @@
 import PySimpleGUI as sg
 import Learn_Pics.code.Const as c
+from code.Right_Layout import Right as r
 
 class Right:
 
@@ -26,5 +27,5 @@ class Right:
             sg.Push()],
             [sg.Text("", font=("Arial", 60))],
             [sg.Push(),
-             sg.Image("images/logo1.png"), sg.Push()]
+             sg.Image(r().get_logo()), sg.Push()]
             ]

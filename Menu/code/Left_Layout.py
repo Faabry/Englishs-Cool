@@ -5,6 +5,7 @@ from code.Greetings import Greeting
 class Left:
     def __init__(self):
         self.greeting = Greeting()
+        sg.theme(Greeting().get_theme())
 
         # Layout
         self.layout = [
@@ -16,16 +17,14 @@ class Left:
 
             # Greeting message with the day and datetime
             [sg.Text(self.greeting.greetings(),
-                     font=(c.GREETING_FONT, 30),
-                     text_color=c.GREETING_COLOR)],
+                     font=(c.GREETING_FONT, 30)
+                     )],
 
             [sg.Text(self.greeting.get_day(),
-                     font=(c.GREETING_FONT, 20),
-                     text_color=c.GREETING_COLOR)],
+                     font=(c.GREETING_FONT, 20))],
 
             [sg.Text(self.greeting.get_hour(),
-                     font=(c.GREETING_FONT, 20),
-                     text_color=c.GREETING_COLOR, key="-HOUR-")],
+                     font=(c.GREETING_FONT, 20), key="-HOUR-")],
 
             [sg.Text()]
         ]

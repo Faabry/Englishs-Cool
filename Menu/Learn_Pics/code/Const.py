@@ -31,7 +31,7 @@ ELEMENTS = {
          "violin", "piano", "video game", "dental floss",
          "calculator", "chair"],           
     "verbs":
-        ["to have", "to like", "to sleep", "to want", "to eat", "to work", "to go", "to play", "to speak", "to study"],
+        ["to have", "to like", "to sleep", "to want", "to eat", "to work", "to go", "to play", "to speak", "to study", "to buy", "to sell", "to travel", "to explore"],
     "clothes":
         ["pajamas", "skirt", "suit", "tuxedo", "blouse", "tracksuit", "sweater", "jacket", "socks", "scarf", "gloves", "shorts", "t-shirt", "hat", "coat", "sweatshirt", "jeans", "swimsuit", "cap", "high heels", "sneakers", "pants", "dress"]
         } 

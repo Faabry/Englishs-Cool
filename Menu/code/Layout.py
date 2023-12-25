@@ -11,7 +11,7 @@ from datetime import datetime as dt
 class Screen:
     def __init__(self):
         # Defining the layout theme
-        sg.theme('Lightblue')
+        sg.theme(Greeting().get_theme())
         
         # Instanciating the classes
         self.left_layout = Left()
@@ -23,7 +23,7 @@ class Screen:
             [sg.Column(self.left_layout.get_layout(), key="-HOUR-"),
              sg.Column(self.right_layout, element_justification="up")],
 
-            [sg.Text("Let's", font=("Arial Black", 30)),
+            [sg.Text("Let's", font=("Arial Black", 30), text_color="black"),
              sg.Text("Learn?", font=("Arial Black", 30), text_color=("red"))],
 
             # ---------------------- Buttons ------------------------

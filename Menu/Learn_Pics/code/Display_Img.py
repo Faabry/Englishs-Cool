@@ -13,7 +13,7 @@ class ShowImg:
         img = Resizer(self.element)
         img.convert()
         # Directory of the image
-        img_path = f"images/{self.element}.jpeg"
+        img_path = f"Images/{self.element}.jpeg"
         image = Image.open(img_path)
 
         # Define the size of the thumbnail for the image

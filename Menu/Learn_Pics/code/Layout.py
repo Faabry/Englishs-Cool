@@ -5,12 +5,13 @@ from Learn_Pics.code.Display_Img import ShowImg
 from Learn_Pics.code.Speak_Text import Speak_text
 from Learn_Pics.code.Left_Layout import Left
 from Learn_Pics.code.Right_Layout import Right
+from code.Greetings import Greeting
 
 
 class Screen:
     def __init__(self):
         # Definindo o tema da interface
-        sg.theme('Lightblue')
+        sg.theme(Greeting().get_theme())
         self.left = Left().get_layout()
         self.right = Right().get_layout()
 

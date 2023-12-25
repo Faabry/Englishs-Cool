@@ -4,12 +4,14 @@ import Speecher.code.Constant as c
 from random import choice
 from Speecher.code.Result import Speak_text
 from time import sleep
+from code.Greetings import Greeting
+from code.Right_Layout import Right
 
 
 class Pronoucer:
     def __init__(self):
         # Theme
-        sg.theme("lightblue")
+        sg.theme(Greeting().get_theme())
 
         self.recognizer = sr.Recognizer()
         self.user_input = None
@@ -32,7 +34,7 @@ class Pronoucer:
             sg.Push(),
 
             # Logo
-            sg.Image(r"images/logo1.png")],
+            sg.Image(Right().get_logo())],
         # -------------------------------------------------
 
             # Starts blank
