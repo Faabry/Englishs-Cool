@@ -14,16 +14,17 @@ class Screen:
         sg.theme(Greeting().get_theme())
         self.left = Left().get_layout()
         self.right = Right().get_layout()
+        self.greetings = Greeting()
 
 
         # Layout da interface
         self.layout = [
             [sg.Text("Learn",
                      font=(c.FONT_TITLE, 40), 
-                     text_color="black"),
+                     text_color=self.greetings.get_title_color()[0]),
             sg.Text("Pics", 
                     font=(c.FONT_TITLE, 40),
-                    text_color="red")],
+                    text_color=self.greetings.get_title_color()[1])],
 
             [sg.Text("Choose a category:", font=(c.FONT_TYPE, 25))],
             

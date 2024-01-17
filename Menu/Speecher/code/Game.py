@@ -12,6 +12,7 @@ class Pronoucer:
     def __init__(self):
         # Theme
         sg.theme(Greeting().get_theme())
+        self.greetings = Greeting()
 
         self.recognizer = sr.Recognizer()
         self.user_input = None
@@ -25,11 +26,11 @@ class Pronoucer:
             # Title
             [sg.Text("Talkit",
                      font=("Arial Black", 40),
-                     text_color=("black")),
+                     text_color=(self.greetings.get_title_color()[0])),
 
             sg.Text("Right",
                     font=("Arial Black", 40),
-                    text_color=("red")),
+                    text_color=(self.greetings.get_title_color()[1])),
             
             sg.Push(),
 
