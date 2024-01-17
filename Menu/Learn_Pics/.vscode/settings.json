@@ -1,0 +1,35 @@
+{
+    "window.zoomLevel": 1.5,
+    "workbench.colorTheme": "Nebula Pandas Theme",
+    "editor.fontSize": 16,
+    "workbench.iconTheme": "symbols",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.lineHeight": 1.6,
+    "editor.rulers": [90, 120],
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontLigatures": true,
+    "workbench.editor.labelFormat": "short",
+    "breadcrumbs.enabled": true, //Shows the name of file and path name
+    "workbench.activityBar.location": "hidden", // You can access it by pressing CTR+Q
+    "editor.minimap.enabled": false,
+    // "workbench.statusBar.visible": false
+    "apc.electron": {
+        "titleBarStyle": "hiddenInset"
+    },
+    "apc.header": {
+        "height": 35
+    },
+    "apc.listRow": {
+        "height": 24
+    },
+    "apc.font.family": "Inter",
+    "apc.stylesheet": {
+        ".pane-body": "padding: 8px"
+    },
+    "explorer.fileNesting.enabled": true,
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.tabs.defaultColor": "terminal.ansiBlack"
+}
+

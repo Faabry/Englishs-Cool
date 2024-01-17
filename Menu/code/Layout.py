@@ -23,8 +23,13 @@ class Screen:
             [sg.Column(self.left_layout.get_layout(), key="-HOUR-"),
              sg.Column(self.right_layout, element_justification="up")],
 
-            [sg.Text("Let's", font=("Arial Black", 30), text_color="black"),
-             sg.Text("Learn?", font=("Arial Black", 30), text_color=("red"))],
+            [sg.Text("Let's", 
+                     font=("Arial Black", 30),
+                     text_color=self.greeting.get_title_color()[0]),
+
+             sg.Text("Learn?", 
+                     font=("Arial Black", 30), 
+                     text_color=self.greeting.get_title_color()[1])],
 
             # ---------------------- Buttons ------------------------
             [sg.Button("Learn Pics", key="-LEARN_PICS-", size=(27, 2), font=("Comic Sans MS", 14)),
@@ -54,7 +59,8 @@ class Screen:
             
             # Update the time every 100ms
             self.window["-HOUR-"].update(self.greeting.get_hour())
-            
+            self.window["-GREETING-"].update(self.greeting.greetings())
+
             # Quit the application
             if event == sg.WINDOW_CLOSED or event == "-QUIT-":
                 break

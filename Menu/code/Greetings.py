@@ -11,15 +11,15 @@ class Greeting:
 
 
     def greetings(self):
+
+        API_KEY = "7d3f36d93d22bbab663f926388e46e84"
+
         # Getting the wheater information from an API 
-        url = "https://open-weather13.p.rapidapi.com/city/Araras"
+        url = f"https://api.openweathermap.org/data/2.5/weather?q=Araras&appid={API_KEY}"
 
-        headers = {
-            "X-RapidAPI-Key": "eb398b1c3emsh43bd73881cb151ap15c148jsne2785acdd1bb",
-            "X-RapidAPI-Host": "open-weather13.p.rapidapi.com"
-        }
+        
 
-        response = requests.get(url, headers=headers)
+        response = requests.get(url)
 
         # Temperature
         temperature = response.json().get("main",{}).get("temp")
@@ -31,13 +31,13 @@ class Greeting:
         
         # Greetings conditional
         if self.hour < 12:
-            return f"Bom Dia {weather_emoji}\n{city} {self.fahrenheit_to_celsius(temperature):.0f}ºC"
+            return f"Bom Dia {weather_emoji}\n{city} {temperature - 273.15:.0f}ºC"
         
         elif self.hour < 18:
-            return f"Boa Tarde ⛅\n{city} {self.fahrenheit_to_celsius(temperature):.0f}ºC"
+            return f"Boa Tarde ⛅\n{city} {temperature - 273.15:.0f}ºC"
         
         else:
-            return f"Boa Noite 🌙\n{city} {self.fahrenheit_to_celsius(temperature):.0f}ºC"
+            return f"Boa Noite 🌙\n{city} {temperature - 273.15:.0f}ºC"
         
     
     # Getting the hour with minutes
@@ -103,6 +103,25 @@ class Greeting:
             return 'DarkAmber'
         else:
             return 'DarkPurple4'
+        
+
+    def get_title_color(self):
+        self.date = dt.now()
+        self.hour = self.date.hour
+        self.color_font = []
+
+        if self.hour > 0 and self.hour < 12:
+            self.color_font = ["#000000","#ff0000"]
+
+        elif self.hour > 12 and self.hour < 18:
+            self.color_font = ["#f7cb58", "#0c1011"]
+        
+        else:
+            self.color_font = ["#7a4277", "#e13ecf"]
+        
+        return self.color_font
 
 
-    
+if __name__ == "__main__":
+    test = Greeting()
+    print(test.greetings())

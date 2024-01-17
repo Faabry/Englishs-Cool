@@ -10,12 +10,13 @@ class Translator:
     def __init__(self):
         # Theme
         sg.theme(Greeting().get_theme())
+        self.greetings = Greeting()
 
         # Layout of application
         self.layout = [
             # Title
-            [sg.Text("Trans", font=("Arial Black", 40), text_color=("black")),
-            sg.Text("lator", font=("Arial Black", 40), text_color=("red")),
+            [sg.Text("Trans", font=("Arial Black", 40), text_color=(self.greetings.get_title_color()[0])),
+            sg.Text("lator", font=("Arial Black", 40), text_color=self.greetings.get_title_color()[1]),
             sg.Push(),
             sg.Image(Right().get_logo())],
 
