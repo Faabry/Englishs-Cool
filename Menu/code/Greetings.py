@@ -30,10 +30,10 @@ class Greeting:
         weather_emoji = self.get_weather_emoji(weather_description)
         
         # Greetings conditional
-        if self.hour < 12:
+        if int(self.hour) < 12:
             return f"Bom Dia {weather_emoji}\n{city} {temperature - 273.15:.0f}ºC"
         
-        elif self.hour < 18:
+        elif int(self.hour) < 18:
             return f"Boa Tarde ⛅\n{city} {temperature - 273.15:.0f}ºC"
         
         else:
@@ -113,7 +113,7 @@ class Greeting:
         if self.hour > 0 and self.hour < 12:
             self.color_font = ["#000000","#ff0000"]
 
-        elif self.hour > 12 and self.hour < 18:
+        elif self.hour >= 12 and self.hour < 18:
             self.color_font = ["#f7cb58", "#0c1011"]
         
         else:

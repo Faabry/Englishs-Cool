@@ -1,3 +1,5 @@
+import threading
+from multiprocessing import Process
 import PySimpleGUI as sg
 from code.Left_Layout import Left
 from code.Right_Layout import Right
@@ -55,7 +57,7 @@ class Screen:
     # Checking events
     def run(self):
         while True:
-            event, values = self.window.read(timeout=100)
+            event, values = self.window.read(timeout=1000)
             
             # Update the time every 100ms
             self.window["-HOUR-"].update(self.greeting.get_hour())
@@ -66,19 +68,22 @@ class Screen:
                 break
 
             # Start Learn Pics
-            elif event == "-LEARN_PICS-":
+            if event == "-LEARN_PICS-":
                 pics = Learn_Screen()
                 pics.run()
+                # threading.Thread(target=pics.run).start()
         
             # Start Translator
-            elif event == "-TRANSLATOR-":
+            if event == "-TRANSLATOR-":
                 translator = Translator()
                 translator.run()
+                # threading.Thread(target=translator.run).start()
 
             # Start Speecher
-            elif event == "-SPEECHER-":
+            if event == "-SPEECHER-":
                 speecher = Pronoucer()
                 speecher.run()
+                # threading.Thread(target=speecher.run).start()
 
         # End
         self.window.close()
